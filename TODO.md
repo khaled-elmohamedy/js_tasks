@@ -1,0 +1,1 @@
+# Task: Add Char Counter as Second App&#10;&#10;## Steps:&#10;1. [x] Create TODO.md&#10;2. [ ] Create src/TodoApp.js (extract current App.js)&#10;3. [ ] Create src/CharCounter.js (provided code as component)&#10;4. [ ] Update src/App.js (add tabs + import/render apps)&#10;5. [ ] Update src/App.css (add styles)&#10;6. [ ] Test & Complete
